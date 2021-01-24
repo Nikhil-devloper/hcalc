@@ -1,0 +1,35 @@
+.sec {
+    height: 100vh;
+    overflow-y: auto;
+    width: 100%;
+    position: relative;
+}
+
+.cal-img {
+    display: flex;
+justify-content: center;
+margin: 20px;
+}
+
+.close-div {
+    width: 95%;
+display: flex;
+justify-content: center;
+position: absolute;
+bottom: 61px;
+}
+
+.margindown {
+    margin-top: 13px;
+}
+
+
+@media only screen and (max-width: 600px) {
+
+
+/* .modal {
+    max-width: 750px;
+}
+ */
+
+}

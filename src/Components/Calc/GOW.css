@@ -1,0 +1,118 @@
+
+h1{
+    font-size: 30px;
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: 300;
+    text-align: center;
+    margin-bottom: 15px;
+    margin-block-start: 0em;
+    margin-block-end: 0em;
+    color: white;
+    padding-bottom: 20px;
+    font-weight: 500;
+
+  }
+  table{
+    width:100%;
+    table-layout: fixed;
+  }
+  .tbl-header{
+    background-color: rgba(255,255,255,0.3);
+   }
+  .tbl-content{
+    height:377px;
+    overflow-x:auto;
+    margin-top: 0px;
+    border: 1px solid rgba(255,255,255,0.3);
+  }
+  th{
+    padding: 20px 15px;
+    text-align: center;
+    font-weight: 500;
+    font-size: 12px;
+    color: #fff;
+    text-transform: uppercase;
+  }
+  td{
+    padding: 15px;
+    text-align: center;
+    vertical-align:middle;
+    font-weight: 300;
+    font-size: 14px;
+    color: #fff;
+    border-bottom: solid 1px rgba(255,255,255,0.1);
+  }
+  
+  
+  /* demo styles */
+
+  section{
+    /* margin: 50px; */
+    margin:  0 30px;
+  }
+  
+  .GOW-main-container {
+    background-image: linear-gradient(to right top,#5b2a51,#733150,#883c4d,#994b49,#a45c44);
+    padding: 10px;
+    height: 100vh;
+  }
+  
+  /* follow me template */
+  .made-with-love {
+    margin-top: 40px;
+    padding: 10px;
+    clear: left;
+    text-align: center;
+    font-size: 10px;
+    font-family: arial;
+    color: #fff;
+  }
+  .made-with-love i {
+    font-style: normal;
+    color: #F50057;
+    font-size: 14px;
+    position: relative;
+    top: 2px;
+  }
+  .made-with-love a {
+    color: #fff;
+    text-decoration: none;
+  }
+  .made-with-love a:hover {
+    text-decoration: underline;
+  }
+
+  .close-btn {
+      
+    height: 40px;
+    width: 120px;
+    background: rgba(226, 222, 222,0.3);
+    border: 1px solid;
+    
+    text-align: center;
+    vertical-align:middle;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    margin-top: 25px;
+    margin-right: auto;
+    margin-bottom: 0px;
+    margin-left: auto;   
+    cursor: pointer; 
+  }
+  
+  
+  /* for custom scrollbar for webkit browser*/
+  
+  ::-webkit-scrollbar {
+      width: 11px;
+  } 
+  ::-webkit-scrollbar-track {
+      -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3); 
+  } 
+  ::-webkit-scrollbar-thumb {
+      -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3); 
+  }

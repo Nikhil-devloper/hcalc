@@ -1,0 +1,32 @@
+.bmr-alevel {
+    width: 100%;
+    font-family: inherit;
+    height: 30px;
+}
+
+/* .bmr {
+    top: -23px;
+} */
+
+.bmr-cal {
+    margin-bottom: 20px;
+}
+
+.bmr-actual {
+    background: linear-gradient( rgba(0, 0, 0, 1.1), rgba(100, 0, 0, 1.1) );
+    font-size: larger;
+}
+
+.actual-cal {
+    overflow-y: auto;
+    /* height: 75vh; */
+    overflow-x: hidden;
+}
+
+.bmr-result-container {
+    color: wheat;
+}
+
+.bmr-q-cont {
+    margin-top: 50px;
+}

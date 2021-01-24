@@ -1,0 +1,28 @@
+.bfc input[type="radio"] {
+    background-color: red;
+    color: white;
+    margin-bottom: unset;
+    width: unset;
+    margin-bottom: 10px;
+}
+
+.bmr-result-container {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.bfc {
+    padding: 10px 50px;
+    
+}
+
+.bfc label {
+    color: white;
+}
+
+
+.radio-box-bfc {
+    display: flex;
+    margin-bottom: 24px;
+}
+

@@ -1,0 +1,21 @@
+
+.NOS-main-container {
+    background-image: linear-gradient(to right top,#5b2a51,#733150,#883c4d,#994b49,#a45c44);
+    padding: 10px;    
+    position: relative;
+    top: 10pc
+}
+
+.NOS-white-text {
+    color: white;
+    line-height: 19pt;
+    
+}
+
+.par1 {
+    margin-top: 20px;
+}
+.par2 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}

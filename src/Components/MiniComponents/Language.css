@@ -1,0 +1,15 @@
+.lang-wrapper {
+    font-size: x-large;
+    padding: 35px;
+    line-height: 2.5;
+}
+
+.sel-lang {
+    text-align: center;
+font-size: xx-large;
+}
+
+
+.lang {
+    cursor: pointer;
+}

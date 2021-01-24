@@ -1,0 +1,19 @@
+https://goodcalculators.com/protein-calculator/
+
+What is BMR ?
+
+ BMR is a minimum number of calories required for basic functions at rest. 
+ 
+ How this number helpfull to me ? 
+
+ You can begin to monitor how many calories a day you need to maintain or lose weight.
+
+ 
+
+
+basal metabolic rate -->
+BMR Formula 
+
+1) Mobile BackBtn should Close popup
+2) Navbar slider should close when click outside
+3) 

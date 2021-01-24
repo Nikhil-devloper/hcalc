@@ -1,0 +1,20 @@
+
+
+.about-me { 
+    font-size: large;
+}
+.my-desc {
+    margin: 20px;
+}
+
+.my-desc a {
+    color: wheat;
+}
+
+.my-link {
+    text-align: center;
+}
+
+.feedback {
+    margin-top: 10px;
+}

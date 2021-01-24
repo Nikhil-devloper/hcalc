@@ -1,0 +1,47 @@
+.ard-expand-collapse {
+    /* background: #fff; */
+    border-radius: 5px;
+    margin-bottom: 20px;
+    cursor: pointer;
+    /* border: 1px solid black; */
+    position: relative;
+    z-index: 3;
+    
+    background-color: rgba(red, #333333, #112211,0.4);
+}
+.ard-expand-collapse .ard-arrow-icon img {
+    float: right;
+    position: relative;
+    top: -22px;
+    cursor: pointer;
+}
+
+.ard-expcol-label.pax {
+    height: 26px;
+    object-fit: contain;
+    border-radius: 4.1px;
+    /* background-color: #e8e8e8; */
+    padding: 10px;
+    /* background-color: #bdbdb0; */
+    /* margin-bottom: 10px; */
+}
+.ard-collapse-text.pax-type {
+    /* font-family: Montserrat-regular; */
+    font-size: 20px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: italic;
+    line-height: normal;
+    letter-spacing: 0.5px;
+    text-align: left;
+    /* color: #ffffff; */
+    color: white;
+    padding-right: 18px;
+    
+}
+
+.collpase-body {
+    /* position: absolute;
+    top: 51px; */
+    z-index: 2;
+}

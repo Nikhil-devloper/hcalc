@@ -1,0 +1,21 @@
+.formula-container {    
+
+    color: white;
+    background: red;
+    max-width: 455px;
+    padding: 20px;
+
+    background-color: #73316ad6;
+    padding: 20px;
+    width: 100%;
+}
+
+.form-div-parent {
+    margin: 20px;
+    line-height: 22px;
+}
+
+.form-src {
+    font-style: italic;
+    margin: 10px;
+}
